@@ -1,16 +1,10 @@
-# flutter_tes
+# Aplikasi Video Player
 
-A new Flutter project.
+Saya dengan bangga mempersembahkan aplikasi video player yang saya kembangkan menggunakan Flutter. Aplikasi ini dirancang khusus untuk memutar video dengan mudah dan nyaman di perangkat Android dan iOS. Dalam pengembangan aplikasi ini, saya menggunakan package video_player dari Flutter dev, yang memberikan fungsionalitas yang kuat dan fleksibel dalam mengelola pemutaran video.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Memutar video dengan lancar dari REST API.
+    Mendukung berbagai format video populer.
+    Kontrol pemutaran video yang mudah digunakan.
+    Antarmuka pengguna yang intuitif dan menarik.
