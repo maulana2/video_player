@@ -148,9 +148,11 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
                       border: Border.all(color: white)),
                   height: 20.sp,
                   width: 30.sp,
-                  child: Text(
-                    '1080P',
-                    style: TextStyle(color: white),
+                  child: Center(
+                    child: Text(
+                      '1080P',
+                      style: TextStyle(color: white),
+                    ),
                   ),
                 ),
                 InkWell(
